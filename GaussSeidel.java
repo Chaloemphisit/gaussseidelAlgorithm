@@ -1,4 +1,4 @@
-
+// Hacktoberfest
 package gaussseidelMethod;
 
 import java.util.Arrays;
